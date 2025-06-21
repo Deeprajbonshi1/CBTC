@@ -3,20 +3,32 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+<<<<<<< HEAD
       <profile name="Annotation profile for LibraryCatalogSystem" enabled="true">
+=======
+      <profile name="Annotation profile for digital-library-management" enabled="true">
+>>>>>>> c5347df6ebf1179cbc49c66ee7d5f43f140b315c
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar" />
         </processorPath>
+<<<<<<< HEAD
         <module name="LibraryCatalogSystem" />
+=======
+        <module name="digital-library-management" />
+>>>>>>> c5347df6ebf1179cbc49c66ee7d5f43f140b315c
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+<<<<<<< HEAD
       <module name="LibraryCatalogSystem" options="-parameters" />
+=======
+      <module name="digital-library-management" options="-parameters" />
+>>>>>>> c5347df6ebf1179cbc49c66ee7d5f43f140b315c
     </option>
   </component>
 </project>

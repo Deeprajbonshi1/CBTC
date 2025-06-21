@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/LibraryCatalogSystem.iml" filepath="$PROJECT_DIR$/.idea/LibraryCatalogSystem.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/digital-library-management.iml" filepath="$PROJECT_DIR$/.idea/digital-library-management.iml" />
+>>>>>>> c5347df6ebf1179cbc49c66ee7d5f43f140b315c
     </modules>
   </component>
 </project>
